@@ -1,62 +1,85 @@
-# Ujas Code - Portfolio
+# Ujas Shekhat — Portfolio
 
-A responsive personal portfolio website built using **HTML, CSS, and JavaScript**. It showcases my skills, projects, and contact information in a clean and professional design.
+A modern and responsive personal portfolio website showcasing my web development skills, projects, live applications, and professional profile.
 
-## Live Demo 1
+## Live Portfolio
 
-    https://ujascode.vercel.app
+🌐 https://ujascode.vercel.app
 
-## Live Demo 2
+## About
 
-    https://code4web.vercel.app
+I'm a Full Stack Web Developer focused on building modern, responsive, and user-friendly web applications.
 
-## Features
+I work with frontend and backend technologies to turn ideas into practical digital solutions.
 
-- Responsive Design
-- Modern UI
-- About Me
-- Skills
-- Live Websites
-- Projects
-- Contact Section
-- Download Resume
-
-## Technologies
+## Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript
+- React.js
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+- REST APIs
+- Git & GitHub
+
+## Portfolio Features
+
+- Responsive design
+- Modern UI
+- About section
+- Technical skills
+- Live websites
+- Featured projects
+- Project showcase
+- Resume download
+- Contact section
+- Mobile-friendly navigation
+
+## Featured Projects
+
+### Code4Web
+
+A full-stack website template marketplace built for browsing, purchasing, and customizing web templates.
+
+**Tech:** Next.js, React.js, Tailwind CSS, Supabase
+
+🔗 Live: https://code4web.vercel.app
+
+### LifeLink
+
+An Emergency Organ Donor Network designed to support hospital-to-hospital organ exchange and emergency coordination.
+
+**Tech:** Next.js, React.js, Node.js, Express.js, MongoDB
+
+### Dairy Farm & Ice Cream Management System
+
+A web-based management system designed for dairy farm and ice cream business operations.
+
+**Tech:** React.js, Node.js
+
+### Unfit to Fit
+
+A responsive fitness-focused website with interactive frontend features and mobile-friendly design.
+
+**Tech:** HTML5, CSS3, JavaScript
+
+### Ball Game
+
+An interactive web-based game developed using frontend and backend web technologies.
 
 ## Live Websites
 
-- **UjasCode** – Tech World
-- **Code4Web** – Web Application
-- **UjasRPC**  – Stone Paper Scissors
-
-## Projects
-
-- Emergency Organ Donor Network
-- Dairy Farm & Ice Cream Management System
-- Ball Game
+- UJASCODE — https://ujascode.vercel.app
+- Code4Web — https://code4web.vercel.app
+- UjasRPC — https://ujasrpc.vercel.app
 
 ## Run Locally
 
+Clone the repository:
+
 ```bash
 git clone https://github.com/ujascode/portfolio.git
-
-cd portfolio
-```
-
-Open `index.html` in your browser.
-
-## Contact
-
-**Email:** ujas.code@gmail.com
-
-**GitHub:** https://github.com/ujascode
-
-**LinkedIn:** https://www.linkedin.com/in/ujas-shekhat-832192295?utm_source=share_via&utm_content=profile&utm_medium=member_android
-
----
-
-© 2026 Ujas Code. All Rights Reserved.

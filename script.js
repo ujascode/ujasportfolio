@@ -53,12 +53,7 @@ document.querySelectorAll(".section").forEach((section) => {
 
 const typingElement = document.querySelector(".hero h3");
 
-const texts = [
-  "Full Stack Developer",
-  "Next.js Developer",
-  "React Developer",
-  "Frontend Developer",
-];
+const texts = ["Full Stack Developer", "Web Application Developer"];
 
 let textIndex = 0;
 let charIndex = 0;
